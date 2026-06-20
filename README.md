@@ -42,7 +42,7 @@ Android-приложение для защиты пользовательски�
     Модуль позволяет шифровать и расшифровывать файлы, используя алгоритм шифрования AES-256. Ключ шифрования создаётся, а затем сохраняется в защищённом хранилище Android Keystore.
 
     <img width="321" height="662" alt="image" src="https://github.com/user-attachments/assets/f3aacaf4-81a5-4161-aa64-40918708367a" />
-    <img width="504" height="421" alt="image" src="https://github.com/user-attachments/assets/25e147cf-88d5-48e2-a7eb-85ff371541e0" />
+    <img width="450" height="410" alt="image" src="https://github.com/user-attachments/assets/25e147cf-88d5-48e2-a7eb-85ff371541e0" />
 
 4. Модуль антивирусного сканирования
 
